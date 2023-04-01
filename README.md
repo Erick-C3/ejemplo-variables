@@ -1,5 +1,7 @@
 # Informacion
 
+- Definimos un nombre para la variable y pensamos en que tipo de dato estamos guardando en la misma
+
 - nombre de mi mascota
 - dni personal
 - confirmacion para salir el finde
