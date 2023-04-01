@@ -1,6 +1,6 @@
 # Informacion
 
-#### Definimos un nombre para la variable y pensamos en que tipo de dato estamos guardando en la misma
+#### Definimos un nombre para cada variable y pensamos en que tipo de dato estamos guardando en la misma
 
 
 - nombre de mi mascota
